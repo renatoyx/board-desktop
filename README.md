@@ -2,9 +2,6 @@
 
 > Um gerenciador de tarefas robusto desenvolvido em Java, aplicando conceitos de Engenharia de Software e Arquitetura em Camadas.
 
-## 📸 Preview
-*(Aqui você pode colocar um print da tela do programa depois)*
-
 ## 🛠️ Tecnologias Utilizadas
 - **Java 17/25**: Linguagem base.
 - **Swing**: Interface Gráfica (GUI) nativa.
@@ -21,4 +18,4 @@ O projeto segue o padrão **MVC (Model-View-Controller)** adaptado com **DAO (Da
 ## 🚀 Como Rodar
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/board-desktop.git](https://github.com/SEU_USUARIO/board-desktop.git)
+   git clone [https://github.com/renatoyx/board-desktop.git](https://github.com/renatoyx/board-desktop.git)
